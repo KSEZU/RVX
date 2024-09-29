@@ -1,1 +1,128 @@
-[]
+[
+  {
+    "patchName": "Custom branding icon for YouTube",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "mmt"
+      },
+      {
+        "key": "ChangeSplashIcon",
+        "value": true
+      },
+      {
+        "key": "RestoreOldSplashAnimation",
+        "value": true
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for YouTube",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "RVX"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom double tap length",
+    "options": [
+      {
+        "key": "DoubleTapLengthArrays",
+        "value": "3, 5, 10, 15, 20, 30, 60, 120, 180"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom Shorts action buttons",
+    "options": [
+      {
+        "key": "IconType",
+        "value": "round"
+      }
+    ]
+  },
+  {
+    "patchName": "GmsCore support",
+    "options": [
+      {
+        "key": "GmsCoreVendorGroupId",
+        "value": "app.revanced"
+      },
+      {
+        "key": "CheckGmsCore",
+        "value": true
+      },
+      {
+        "key": "PackageNameYouTube",
+        "value": "app.rvx.android.youtube"
+      },
+      {
+        "key": "PackageNameYouTubeMusic",
+        "value": "app.rvx.android.apps.youtube.music"
+      }
+    ]
+  },
+  {
+    "patchName": "Overlay buttons",
+    "options": [
+      {
+        "key": "IconType",
+        "value": "round"
+      },
+      {
+        "key": "BottomMargin",
+        "value": "2.5dip"
+      },
+      {
+        "key": "ChangeTopButtons",
+        "value": true
+      }
+    ]
+  },
+  {
+    "patchName": "Settings for YouTube",
+    "options": [
+      {
+        "key": "InsertPosition",
+        "value": "@string/about_key"
+      },
+      {
+        "key": "RVXSettingsMenuName",
+        "value": "ReVanced Extended"
+      }
+    ]
+  },
+  {
+    "patchName": "SponsorBlock",
+    "options": [
+      {
+        "key": "OutlineIcon",
+        "value": false
+      }
+    ]
+  },
+  {
+    "patchName": "Visual preferences icons",
+    "options": [
+      {
+        "key": "RVXSettingsMenuIcon",
+        "value": "gear"
+      }
+    ]
+  },
+  {
+    "patchName": "Visual preferences icons for YouTube",
+    "options": [
+      {
+        "key": "RVXSettingsMenuIcon",
+        "value": "gear"
+      },
+      {
+        "key": "ApplyToAllSettingsMenu",
+        "value": true
+      }
+    ]
+  }
+]
